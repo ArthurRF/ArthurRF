@@ -25,8 +25,8 @@ Talk to me about:
   </tr>
   <tr>
     <td>
+      <img alt="TS" title="TypeScript" width="40px" height:"40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
       <img alt="JS" title="JavaScript" width="40px" height:"40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-      <img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
     </td>
     <td>
       <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
@@ -50,9 +50,8 @@ Talk to me about:
     </td>
   </tr>  
 </table>
-
 ## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
+- 💬 Ask me about anything and everything.
 - 🎯 Get in touch with me whenever you want.
 - ⚡ Fun fact: All noodles are pasta, all pastas are not noodles.
 
